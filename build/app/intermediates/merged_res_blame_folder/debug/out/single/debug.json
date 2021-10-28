@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/media/sanjog/New Volume/DartMai/xylophone_flutter/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/media/sanjog/New Volume/DartMai/xylophone_flutter/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/media/sanjog/New Volume/DartMai/xylophone_flutter/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/media/sanjog/New Volume/DartMai/xylophone_flutter/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/media/sanjog/New Volume/DartMai/xylophone_flutter/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/media/sanjog/New Volume/DartMai/xylophone_flutter/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/sanjog/New Volume/DartMai/xylophone_flutter/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
+        "source": "/media/sanjog/New Volume/DartMai/xylophone_flutter/android/app/src/main/res/drawable/launch_background.xml"
+    },
+    {
+        "merged": "/media/sanjog/New Volume/DartMai/xylophone_flutter/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/media/sanjog/New Volume/DartMai/xylophone_flutter/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/sanjog/New Volume/DartMai/xylophone_flutter/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/media/sanjog/New Volume/DartMai/xylophone_flutter/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/sanjog/New Volume/DartMai/xylophone_flutter/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/media/sanjog/New Volume/DartMai/xylophone_flutter/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/sanjog/New Volume/DartMai/xylophone_flutter/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/media/sanjog/New Volume/DartMai/xylophone_flutter/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/sanjog/New Volume/DartMai/xylophone_flutter/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/media/sanjog/New Volume/DartMai/xylophone_flutter/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/media/sanjog/New Volume/DartMai/xylophone_flutter/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/media/sanjog/New Volume/DartMai/xylophone_flutter/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/media/sanjog/New Volume/DartMai/xylophone_flutter/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/media/sanjog/New Volume/DartMai/xylophone_flutter/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/sanjog/New Volume/DartMai/xylophone_flutter/build/app/intermediates/res/merged/debug/drawable-v21_launch_background.xml.flat",
+        "source": "/media/sanjog/New Volume/DartMai/xylophone_flutter/android/app/src/main/res/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "/media/sanjog/New Volume/DartMai/xylophone_flutter/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/media/sanjog/New Volume/DartMai/xylophone_flutter/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/sanjog/New Volume/DartMai/xylophone_flutter/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/media/sanjog/New Volume/DartMai/xylophone_flutter/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/sanjog/New Volume/DartMai/xylophone_flutter/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/media/sanjog/New Volume/DartMai/xylophone_flutter/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/media/sanjog/New Volume/DartMai/xylophone_flutter/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/media/sanjog/New Volume/DartMai/xylophone_flutter/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/sanjog/New Volume/DartMai/xylophone_flutter/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/media/sanjog/New Volume/DartMai/xylophone_flutter/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    }
+]
